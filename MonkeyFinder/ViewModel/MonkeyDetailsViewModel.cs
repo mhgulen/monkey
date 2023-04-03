@@ -77,14 +77,14 @@ public partial class MonkeyDetailsViewModel : BaseViewModel
     }
 
     [RelayCommand]
-    async Task GoToDetails(Dersler monkey)
+    async Task GoToDetails(Dersler dersler)
     {
-        if (monkey == null)
+        if (dersler == null)
             return;
 
         await Shell.Current.GoToAsync(nameof(DersPage), true, new Dictionary<string, object>
         {
-            {"Dersler", monkey }
+            {"Dersler", dersler }
         });
     }
 }
