@@ -1,0 +1,110 @@
+﻿[
+  {
+    "DonemId": "1",
+    "Name": "Math 101",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "DonemId": "1",
+    "Name": "Math 102",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "DonemId": "1",
+    "Name": "Math 103",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "DonemId": "1",
+    "Name": "Math 105",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "DonemId": "2",
+    "Name": "Math 106",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": -14.235004,
+    "Longitude": -51.92528
+  },
+  {
+    "DonemId": "2",
+    "Name": "Math 107",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "DonemId": "2",
+    "Name": "Math 108",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": 36.204824,
+    "Longitude": 138.252924
+  },
+  {
+    "DonemId": "2",
+    "Name": "Math 111",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
+  },
+  {
+    "DonemId": "2",
+    "Name": "Math 112",
+    "Akts": "4",
+    "Vize1": "40",
+    "Vize2": "40",
+    "Final": "100",
+    "Ort": "65",
+    "HarfNotu": "DC",
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
+  }
+]

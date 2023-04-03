@@ -1,0 +1,83 @@
+﻿[
+  {
+    "Name": "2020 1.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 10000,
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "Name": "2020 2.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 23000,
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "Name": "2020 3.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 12000,
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+  {
+    "Name": "2021 1.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "The squirrel monkeys are the New World monkeys of the genus Saimiri. They are the only genus in the subfamily Saimirinae. The name of the genus Saimiri is of Tupi origin, and was also used as an English name by early researchers.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 11000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "Name": "2021 2.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "The golden lion tamarin also known as the golden marmoset, is a small New World monkey of the family Callitrichidae.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 19000,
+    "Latitude": -14.235004,
+    "Longitude": -51.92528
+  },
+  {
+    "Name": "2022 1.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "Howler monkeys are among the largest of the New World monkeys. Fifteen species are currently recognised. Previously classified in the family Cebidae, they are now placed in the family Atelidae.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 8000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "Name": "2022 2.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "The Japanese macaque, is a terrestrial Old World monkey species native to Japan. They are also sometimes known as the snow monkey because they live in areas where snow covers the ground for months each",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 1000,
+    "Latitude": 36.204824,
+    "Longitude": 138.252924
+  },
+  {
+    "Name": "2023 1.Dönem",
+    "Location": "Geçmiş Dönem",
+    "Details": "The mandrill is a primate of the Old World monkey family, closely related to the baboons and even more closely to the drill. It is found in southern Cameroon, Gabon, Equatorial Guinea, and Congo.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 17000,
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
+  },
+  {
+    "Name": "2023 2.Dönem",
+    "Location": "Aktif Dönem",
+    "Details": "The mandrill is a primate of the Old World monkey family, closely related to the baboons and even more closely to the drill. It is found in southern Cameroon, Gabon, Equatorial Guinea, and Congo.",
+    "Image": "https://muhendislik.cu.edu.tr/storage/settings/February2019/vdJy9NFxTzcWBXRBryok.png",
+    "Population": 17000,
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
+  }
+]
