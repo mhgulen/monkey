@@ -51,8 +51,20 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="View\DersPage.xaml.cs">
+	    <DependentUpon>DersPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiAsset Update="Resources\Raw\monkeydataDersler.json">
 	    <LogicalName>%(RecursiveDir)%(Filename)%(Extension)</LogicalName>
 	  </MauiAsset>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="View\DersPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 </Project>

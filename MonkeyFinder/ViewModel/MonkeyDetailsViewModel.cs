@@ -82,7 +82,7 @@ public partial class MonkeyDetailsViewModel : BaseViewModel
         if (monkey == null)
             return;
 
-        await Shell.Current.GoToAsync(nameof(DetailsPage), true, new Dictionary<string, object>
+        await Shell.Current.GoToAsync(nameof(DersPage), true, new Dictionary<string, object>
         {
             {"Dersler", monkey }
         });
